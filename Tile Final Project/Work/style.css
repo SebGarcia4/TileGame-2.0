@@ -1,0 +1,25 @@
+body 
+  {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #48743F;
+    padding-bottom: 100px;
+  }
+  #cnv 
+  {
+    border: 1px solid black;
+  }
+
+  h1 
+  {
+    font-size: 80px;
+    color: white;
+  }
+  
+  p 
+  {
+    font-size: 50px;
+    color: white;
+  }
